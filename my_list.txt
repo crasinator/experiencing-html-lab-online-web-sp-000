@@ -1,4 +1,4 @@
-"TSLA" 
-"AAPL" 
-"NIO"
+"$TSLA" 
+"$AAPL" 
+"$NIO"
 "$PLTR"
